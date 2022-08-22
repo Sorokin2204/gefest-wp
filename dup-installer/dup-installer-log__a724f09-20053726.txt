@@ -1,0 +1,677 @@
+********************************************************************************
+* DUPLICATOR-LITE: Install-Log
+* STEP-1 START @ 10:04:28
+* VERSION: 1.4.7.2
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.33                                |7.4.5
+OS__________________: Linux                                 |WINNT
+CREATED_____________: 2022-08-20 05:37:26
+WP VERSION__________: 6.0.1
+DUP VERSION_________: 1.4.7.2
+DB__________________: 10.2.44
+DB TABLES___________: 55
+DB ROWS_____________: 985
+DB FILE SIZE________: 1.59MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.4.5 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache
+DOC ROOT____________: "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://gefest.loc/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ACTION______: "donothing"
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest/20220820_myblog_[HASH]_20220820053726_archive.zip"
+SIZE________________: 56.04MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+BEFORE EXTRACION ACTIONS
+MAINTENANCE MODE ENABLE
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest/20220820_myblog_[HASH]_20220820053726_archive.zip"
+SIZE________________: 56.04MBFile timestamp set to Current: 2022-08-21 10:04:57
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTRACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+
+STEP-1 COMPLETE @ 10:04:57 - RUNTIME: 29.4249 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 10:06:26
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "create"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTION CREATION___: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.29 -- Build Server: 10.2.44
+FILE SIZE:	dup-database__[HASH].sql (1.41MB)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+
+NOTICE: This servers version [5.7.29] is less than the build version [10.2.44].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+DB FUNCTIONS:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	474
+
+plitka_actionscheduler_actions: (7)
+plitka_actionscheduler_claims: (0)
+plitka_actionscheduler_groups: (3)
+plitka_actionscheduler_logs: (19)
+plitka_berocket_termmeta: (0)
+plitka_braapf_product_stock_status_parent: (1)
+plitka_braapf_product_variation_attributes: (0)
+plitka_braapf_term_taxonomy_hierarchical: (0)
+plitka_braapf_variable_attributes: (0)
+plitka_commentmeta: (0)
+plitka_comments: (1)
+plitka_duplicator_packages: (0)
+plitka_links: (0)
+plitka_options: (368)
+plitka_postmeta: (211)
+plitka_posts: (80)
+plitka_term_relationships: (31)
+plitka_term_taxonomy: (33)
+plitka_termmeta: (1)
+plitka_terms: (33)
+plitka_usermeta: (26)
+plitka_users: (1)
+plitka_wc_admin_note_actions: (46)
+plitka_wc_admin_notes: (39)
+plitka_wc_category_lookup: (1)
+plitka_wc_customer_lookup: (0)
+plitka_wc_download_log: (0)
+plitka_wc_order_coupon_lookup: (0)
+plitka_wc_order_product_lookup: (0)
+plitka_wc_order_stats: (0)
+plitka_wc_order_tax_lookup: (0)
+plitka_wc_product_attributes_lookup: (0)
+plitka_wc_product_download_directories: (2)
+plitka_wc_product_meta_lookup: (1)
+plitka_wc_rate_limits: (0)
+plitka_wc_reserved_stock: (0)
+plitka_wc_tax_rate_classes: (2)
+plitka_wc_webhooks: (0)
+plitka_woocommerce_api_keys: (0)
+plitka_woocommerce_attribute_taxonomies: (0)
+plitka_woocommerce_downloadable_product_permissions: (0)
+plitka_woocommerce_log: (0)
+plitka_woocommerce_order_itemmeta: (0)
+plitka_woocommerce_order_items: (0)
+plitka_woocommerce_payment_tokenmeta: (0)
+plitka_woocommerce_payment_tokens: (0)
+plitka_woocommerce_sessions: (1)
+plitka_woocommerce_shipping_zone_locations: (0)
+plitka_woocommerce_shipping_zone_methods: (0)
+plitka_woocommerce_shipping_zones: (0)
+plitka_woocommerce_tax_rate_locations: (0)
+plitka_woocommerce_tax_rates: (0)
+plitka_yith_wcwl: (0)
+plitka_yith_wcwl_lists: (0)
+wp_coderun_oneclickwoo_orders: (0)
+Removed '79' cache/transient rows
+
+INSERT DATA RUNTIME: 0.7470 sec.
+STEP-2 COMPLETE @ 10:06:27 - RUNTIME: 0.7807 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 10:06:42
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "My Blog"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "/home/bh65303/plitka.nova-green.ru"
+path_new______________: "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+siteurl_______________: "http://gefest.loc"
+url_old_______________: "https://plitka.nova-green.ru"
+url_new_______________: "http://gefest.loc"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "plitka_actionscheduler_actions"__________________[ROWS:     7][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_actionscheduler_claims"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_actionscheduler_groups"___________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_actionscheduler_logs"_____________________[ROWS:    19][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_berocket_termmeta"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_braapf_product_stock_status_parent"_______[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_braapf_product_variation_attributes"______[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_braapf_term_taxonomy_hierarchical"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_braapf_variable_attributes"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_commentmeta"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_comments"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_duplicator_packages"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_links"____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_options"__________________________________[ROWS:   368][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_postmeta"_________________________________[ROWS:   211][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_posts"____________________________________[ROWS:    80][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_term_relationships"_______________________[ROWS:    31][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_term_taxonomy"____________________________[ROWS:    33][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_termmeta"_________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_terms"____________________________________[ROWS:    33][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_usermeta"_________________________________[ROWS:    26][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_users"____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_wc_admin_note_actions"____________________[ROWS:    46][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_wc_admin_notes"___________________________[ROWS:    39][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_wc_category_lookup"_______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_wc_customer_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_download_log"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_order_coupon_lookup"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_order_product_lookup"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_order_stats"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_order_tax_lookup"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_product_attributes_lookup"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_product_download_directories"__________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_wc_product_meta_lookup"___________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_wc_rate_limits"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_reserved_stock"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_wc_tax_rate_classes"______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_wc_webhooks"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_api_keys"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_attribute_taxonomies"_________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_log"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_order_itemmeta"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_order_items"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_payment_tokenmeta"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_payment_tokens"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_sessions"_____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/bh65303/plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  2:"\/home\/bh65303\/plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  3:"%2Fhome%2Fbh65303%2Fplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  4:"\home\bh65303\plitka.nova-green.ru" ==============> "C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest"
+	SEARCH  5:"\\home\\bh65303\\plitka.nova-green.ru" ===========> "C:\/Users\/niga_\/Desktop\/web-projects\/OpenServer\/domains\/gefest"
+	SEARCH  6:"%5Chome%5Cbh65303%5Cplitka.nova-green.ru" ========> "C%3A%2FUsers%2Fniga_%2FDesktop%2Fweb-projects%2FOpenServer%2Fdomains%2Fgefest"
+	SEARCH  7:"//plitka.nova-green.ru" ==========================> "//gefest.loc"
+	SEARCH  8:"\/\/plitka.nova-green.ru" ========================> "\/\/gefest.loc"
+	SEARCH  9:"%2F%2Fplitka.nova-green.ru" ======================> "%2F%2Fgefest.loc"
+	SEARCH 10:"https://gefest.loc" ==============================> "http://gefest.loc"
+	SEARCH 11:"https:\/\/gefest.loc" ============================> "http:\/\/gefest.loc"
+	SEARCH 12:"https%3A%2F%2Fgefest.loc" ========================> "http%3A%2F%2Fgefest.loc"
+
+EVALUATE TABLE: "plitka_woocommerce_shipping_zone_locations"______[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_shipping_zone_methods"________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_shipping_zones"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_tax_rate_locations"___________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_woocommerce_tax_rates"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_yith_wcwl"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "plitka_yith_wcwl_lists"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_coderun_oneclickwoo_orders"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:55 	|	 Rows:907 	|	 Cells:6016 
+UPDATED:	Tables:5 	|	 Rows:91 	|	 Cells:92 
+ERRORS:		0 
+RUNTIME:	0.147300 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME "** OBSCURED **"
+	UPDATE DB_USER "** OBSCURED **"
+	[PHP ERR][WARN] MSG:file_put_contents(C:/Users/niga_/Desktop/web-projects/OpenServer/domains/gefest/dup-wp-config-arc__[HASH].txt): failed to open stream: Resource temporarily unavailable [CODE:2|FILE:C:\Users\niga_\Desktop\web-projects\OpenServer\domains\gefest\dup-installer\lib\config\class.wp.config.tranformer.php|LINE:448]
+	WP-CONFIG TRANSFORMER EXCEPTION
+#0 C:\Users\niga_\Desktop\web-projects\OpenServer\domains\gefest\dup-installer\lib\config\class.wp.config.tranformer.php(311): DupLiteWPConfigTransformer->save()
+#1 C:\Users\niga_\Desktop\web-projects\OpenServer\domains\gefest\dup-installer\classes\class.s3.func.php(744): DupLiteWPConfigTransformer->update()
+#2 C:\Users\niga_\Desktop\web-projects\OpenServer\domains\gefest\dup-installer\ctrls\ctrl.s3.php(33): DUPX_S3_Funcs->configurationFileUpdate()
+#3 C:\Users\niga_\Desktop\web-projects\OpenServer\domains\gefest\dup-installer\main.installer.php(257): require_once('C:\\Users\\niga_\\...')
+#4 {main}
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Auto Deactivated plugins list here: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+MAINTENANCE MODE DISABLE
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 10:06:42 - RUNTIME: 0.2132 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] Info
+	SECTIONS: general
+	LONG MSG:             The following is a list of notices that may need to be fixed in order to finalize your setup. These values should only be investigated if you're running into
+            issues with your site. For more details see the <a href="https://codex.wordpress.org/Editing_wp-config.php" target="_blank">WordPress Codex</a>.
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+-----------------------
+[CRITICAL ERROR] wp-config.php transformer:Failed to update the wp-config.php file.
+	SECTIONS: general
+	LONG MSG: Error updating wp-config file.<br>
+The installation is finished but check the wp-config.php file and manually update the incorrect values.
+
+====================================

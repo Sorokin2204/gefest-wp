@@ -1,0 +1,77 @@
+/**1.0.6 - 2022.03.29**/
+- Updated: Update support class
+
+/**1.0.5 - 2022.03.22**/
+- Updated: Update support class
+
+/**1.0.4 - 2022.01.15**/
+- Updated: Compatibility with WC 6.1
+
+/**1.0.3 - 2021.11.13**/
+- Updated: Compatibility with WooCommerce Stripe Gateway by WooCommerce v:5.7.0
+- Updated: Compatibility with Payment Plugins for Stripe WooCommerce  v:3.3.12
+
+/**1.0.2 - 2021.10.25**/
+- Added: Allow setting position for sidebar cart icon and sidebar content
+- Added: Allow showing cart item count/ cart subtotal on the sidebar cart icon
+- Added: New display style for the sidebar cart icon
+- Added: Use an image for the sidebar cart icon
+- Added: Compatibility menu cart with Elementor
+
+/**1.0.1.8 - 2021.06.11**/
+- Fixed: Can't get checkout form on Sidebar Cart on ajax
+
+/**1.0.1.7 - 2021.06.08**/
+- Updated: Allow to change enable/disable special feature on the customizer
+- Updated: New style of Stick Add To Cart on mobile
+- Added: Option enable/disable show the product title link on Sidebar Cart List Products
+- Added: Option always appear sticky add to cart
+- Added: Product Plus type (Select Categories, Select Products, Featured products, Cross-sells, Upsell)
+
+/**1.0.1.6 - 2021.05.06**/
+- Updated: Style of applied coupons
+- Fixed: Sidebar cart icon don't show if horizontal/vertical is 0
+- Fixed: Fly product image to cart on single page
+
+/**1.0.1.5 - 2021.04.09**/
+- Added: Display style of products price on Sidebar Cart List Products
+- Added: Display applied coupons on Sidebar Cart Footer
+- Updated: Display style of variation pop-up
+- Updated: Compatibility with Stripe For WooCommerce of Payment Plugins, support@paymentplugins.com v:3.2.15
+- Fixed: Style of loading icon
+- Fixed: Find variation on Sticky Add To Cart and variation pop-up
+
+/**1.0.1.4 - 2021.03.19**/
+- Fixed: Can't change checkout nav button text
+- Updated: Compatibility with WooCommerce Amazon Pay of WooCommerce v:1.13.1
+- Updated: Compatibility with YITH PayPal Express Checkout for WooCommerce of YITH v:1.4.4
+- Updated: Compatibility with Payment Gateway Based Fees and Discounts for WooCommerce plugin of Tyche Softwares v:2.6.2
+- Updated: Compatibility with 2Checkout Payment Gateway plugin of 2Checkout v:1.2.0
+- Updated: Compatibility with 2Checkout Inline Payment Gateway plugin of 2Checkout v:1.2.0
+- Updated: Compatibility with Avada theme v:7.2.1
+
+/**1.0.1.3 - 2021.03.01**/
+- Added: Option show/hide Sidebar Cart Icon
+- Added: Option for adding the 3rd class/id, which allows to open Sidebar Cart content when clicking
+- Updated: Change product image size on the product plus slide
+- Updated: Change time to show message popup
+- Updated: Compatibility with Germanized for WooCommerce plugin
+- Fixed: Update cart after adding product without refresh page
+- Fixed: Product quantity style of sidebar cart on Safari
+
+/**1.0.1.2 - 2021.02.06**/
+- Fixed: Change variation on Sticky Add To Cart and variation pop-up
+- Added: Option show/hide out of stock products on the product plus slide
+- Added: Compatibility with WooCommerce Stripe Gateway v:4.8.0
+- Added: Compatibility with WooCommerce Square v:2.3.2
+
+/**1.0.1.1 - 2021.01.26**/
+- Fixed: Responsible on mobile if the address bar is visible
+- Updated: Change the position of the navigation button on the product plus slide
+- Updated: Link to the documentation
+
+/**1.0.1 - 2021.01.22**/
+– Updated: Auto update
+
+/**1.0.0 - 2021.01.22**/
+~ The first released

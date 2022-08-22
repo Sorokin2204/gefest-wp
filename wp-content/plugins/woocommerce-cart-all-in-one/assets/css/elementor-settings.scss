@@ -1,0 +1,24 @@
+.elementor-control-icon_type {
+  .elementor-choices {
+    overflow: unset;
+    flex-wrap: wrap;
+    height: auto;
+
+    .elementor-choices-label {
+      border: none !important;
+      background: transparent !important;
+
+      i {
+        opacity: .5;
+      }
+    }
+
+    input:checked + .elementor-choices-label {
+      color: #000;
+
+      i {
+        opacity: 1;
+      }
+    }
+  }
+}

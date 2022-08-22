@@ -1,0 +1,1608 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Cart All in One Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-23 02:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.3"
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:464
+msgid ""
+"Add product to cart without reloading on single product pages and Quick View "
+"popup."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:653
+msgid "Add the Categories which are not displayed Sticky Add to Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:486
+msgid "Add the products which are not applied ajax add to cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:630
+msgid "Add the products which are not displayed Sticky Add to Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:548
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:557
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/variation-popup.php:82
+msgid "Add To Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:177
+msgid "Add To Cart Button"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:525
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:542
+msgid "Add to Cart button label"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:506
+msgid "Add to Cart for variable products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:519
+msgid ""
+"After click add to cart button, a pop-up will appear allowing select "
+"variations and add to cart without redirect to the single product page."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:738
+msgid "After single product content"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:735
+msgid "After single product summary"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:452
+msgid "AJAX Add to Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:290
+msgid "Allow checkout directly on Sidebar Cart without going to checkout page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:307
+msgid ""
+"Allow checkout directly on Sidebar Cart without going to checkout page on "
+"Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3562
+msgid "Allow customers to log into an existing account during checkout"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2904
+msgid "Always Appear"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:851
+msgid "Animation Facebook 1"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:852
+msgid "Animation Facebook 2"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-content.php:44
+msgid "Apply"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1427
+msgid "Apply Coupon Button Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1466
+msgid "Apply Coupon Button Hover Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1486
+msgid "Apply Coupon Button Hover Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1504
+msgid "Apply Coupon Button Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1447
+msgid "Apply Coupon Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:251
+msgid "Assign page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:815
+msgid "Auto play slideshow with settings below"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:844
+msgid "Auto Update Key"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:808
+msgid "Autoplay"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3905
+msgid "Back Icon Type"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3921
+msgid "Back To Cart Button Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3843
+msgid "Back To Cart Button Enable"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3953
+msgid "Back To Cart Button Hover Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3969
+msgid "Back to Cart Button Hover Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3987
+msgid "Back To Cart Button Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3861
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3876
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3878
+msgid "Back To Cart Button Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3937
+msgid "Back to Cart Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3521
+msgid "Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1269
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1538
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2370
+msgid "Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3073
+msgid "Background Color for Product Ratings"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:732
+msgid "Before single product summary"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2053
+msgid "Best Selling Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3578
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3592
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3594
+msgid "Billing Step Title"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:711
+msgid "Border Radius For Sidebar Cart Content(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3436
+msgid "Border Radius of Cart Button on Mobile(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3312
+msgid "Border Radius of Cart button(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3107
+msgid "Border Radius of Product Quantity(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3037
+msgid "Border Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:653
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:931
+msgid "Bottom Left"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:654
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:932
+msgid "Bottom Right"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2987
+msgid "Box Shadow Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1812
+msgid "Button Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1713
+msgid "Button Enable"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1852
+msgid "Button Hover Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1872
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1890
+msgid "Button Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1832
+msgid "Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:24
+msgid "Cart All In One"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:23
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:563
+msgid "Cart All In One For WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Cart All In One For WooCommerce helps your customers view cart effortlessly."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3278
+msgid "Cart Button Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3402
+msgid "Cart Button Background Color on Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2272
+msgid "Cart Button Background Color on Product Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2304
+msgid "Cart Button Hover Background Color on Product Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2320
+msgid "Cart Button Hover Text Color on Product Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3220
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3233
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3235
+msgid "Cart Button Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3295
+msgid "Cart Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3419
+msgid "Cart Button Text Color on Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2288
+msgid "Cart Button Text Color on Product Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2227
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2229
+msgid "Cart Button Text on Product Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2214
+msgid "Cart button Text on Product Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:750
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:795
+msgid "Cart Effect After Adding Product"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1142
+msgid "Cart Icon Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1160
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2758
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:105
+msgid "Cart Icon Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:947
+msgid "Cart icon Horizontal(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2778
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:119
+msgid "Cart Icon Hover Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1064
+msgid "Cart Icon Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:986
+msgid "Cart icon Style"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1123
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2738
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3262
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:95
+msgid "Cart Icon Type"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2256
+msgid "Cart Icon Type on Product Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:968
+msgid "Cart icon Vertical(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1182
+msgid "Cart item count"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2698
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:60
+msgid "Cart page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1183
+msgid "Cart subtotal"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1329
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1343
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1345
+msgid "Cart Title"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1620
+msgid "Cart total"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:535
+msgid "Change the label of the add to cart button with variable products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3475
+msgid "Checkout"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1719
+msgid "Checkout "
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1772
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1786
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1788
+msgid "Checkout Button Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/sidebar-cart-content.php:119
+msgid "Checkout is not available whilst your cart is empty."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:276
+msgid "Checkout on Sidebar Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2699
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:61
+msgid "Checkout page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3007
+msgid "Choose default sticky bar background color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2990
+msgid "Choose default sticky bar box shadow color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2701
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:57
+msgid "Choose the page redirected to when clicking on Menu Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:742
+msgid ""
+"Choose the position for recently viewed products on single product pages"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:266
+msgid "Class/Id to open sidebar cart content"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:778
+msgid "Click"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-content.php:37
+msgid "Coupon code"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/frontend.php:249
+msgid "Coupon has been removed."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1404
+msgid "Coupon Input Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2054
+msgid "Cross-sells Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4448
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4465
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2017
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2030
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2032
+msgid "Custom Message"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1294
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1563
+msgid "Dashed"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:849
+msgid "Default"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:314
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:424
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:659
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:80
+msgid "Design"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3731
+msgid "Display Both \"Billing\" And \"Shipping\" in One Step"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3787
+msgid "Display Both \"Order\" And \"Payment\" in One Step"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:353
+msgid "Display menu cart on Mobile mode"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:31
+msgid "Display On Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:215
+msgid "Display Sidebar Cart on Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:627
+msgid "Display Sidebar Content"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:590
+msgid "Display sticky add to cart on mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:577
+msgid "Display sticky add to cart on single product pages"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3846
+msgid "Display the back to cart button in checkout steps"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4388
+msgid "Display The Bar For Moving Between Steps"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:501
+msgid ""
+"Display the notification of adding products to cart successfully after "
+"adding to cart by Ajax and reloading page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1293
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1562
+msgid "Dotted"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:850
+msgid "Dual Ring"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:195
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:280
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:335
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:456
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:569
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:702
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:595
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:901
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2660
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2888
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3490
+msgid "Enable"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1597
+msgid "Enable Applied Coupons"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1003
+msgid "Enable Box Shadow"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1387
+msgid "Enable Coupon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2388
+msgid "Enable Image Box Shadow"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3559
+msgid "Enable Login Step"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3387
+msgid "Enable Product Image on Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2429
+msgid "Enable Product Title Link"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:220
+msgid "Enable sidebar cart icon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:550
+msgid "Enter you own label for the add to cart button of variable products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:636
+msgid "Exclude Categories"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:469
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:613
+msgid "Exclude products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:821
+msgid "Fade"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2055
+msgid "Featured products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:822
+msgid "Flip"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:733
+msgid "Fly To Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2591
+msgid "Font Size for Trash Icon(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3458
+msgid "Font Size of Cart Button on Mobile(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3334
+msgid "Font Size of Cart button(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1581
+msgid "Footer Border Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1556
+msgid "Footer Border Style"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:24
+msgid "General"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:856
+msgid "Get Key"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:320
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:430
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:665
+msgid "Go to design"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:432
+msgid "Go to design Menu Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1312
+msgid "Header Border Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1287
+msgid "Header Border Style "
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:848
+msgid "Hidden"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-cart-all-in-one/"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:780
+msgid ""
+"If choose \"Click\", the cart content will be shown after clicking on the "
+"cart icon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-form-checkout.php:125
+msgid ""
+"If you have shopped with us before, please enter your details below. If you "
+"are a new customer, please proceed to the Billing section."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:788
+msgid "Infinite loop"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3539
+msgid "Keyboard Navigation"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:855
+msgid "Loader Balls 1"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:856
+msgid "Loader Balls 2"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:857
+msgid "Loader Balls 3"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:874
+msgid "Loading Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:844
+msgid "Loading Type"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-form-checkout.php:11
+msgid "Login"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:176
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2645
+msgid "Menu Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:391
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2817
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:146
+msgid "Menu Cart Price"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:372
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2795
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:133
+msgid "Menu Cart Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:11
+msgid "Menu Cart( VillaTheme)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:407
+msgid "Menus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:611
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2676
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3355
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3506
+msgid "Mobile Enable"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:207
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:297
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:346
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:583
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:713
+msgid "Mobile enable"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:777
+msgid "MouseOver"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4404
+msgid "Moving Bar Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4420
+msgid "Moving Bar Color When Hovered Mouse In"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4436
+msgid "Moving Bar Color When Selected "
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2448
+msgid "Name Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2466
+msgid "Name Hover Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2692
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:54
+msgid "Navigation Page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4047
+msgid "Next Button Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4079
+msgid "Next Button Hover Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4095
+msgid "Next Button Hover Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4113
+msgid "Next Button Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4009
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4024
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4026
+msgid "Next Button Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4063
+msgid "Next Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:35
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:47
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:72
+msgid "No"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1291
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1560
+msgid "No border"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-product-list-html.php:7
+msgid "No products in the cart."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:729
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:754
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:799
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2697
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:59
+msgid "None"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:492
+msgid "Notification"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:800
+msgid "Number of carousel items that should move on animation"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:780
+msgid "Number of columns"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2191
+msgid "Number Of Products To Show"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:755
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:800
+msgid "Open cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3654
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3668
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3670
+msgid "Order Review Step Title"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sticky-bar-mobile.php:37
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sticky-bar.php:57
+msgid "Out Of Stock"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3023
+msgid "Padding"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:828
+msgid "Pause on hover"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:835
+msgid "Pause the slideshow when hovering and resume when no longer hovering"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3692
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3706
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3708
+msgid "Payment Step Title"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4299
+msgid "Place Order Button Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4331
+msgid "Place Order Button Hover Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4347
+msgid "Place Order Button Hover Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4365
+msgid "Place Order Button Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4261
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4276
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4278
+msgid "Place Order Button Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4315
+msgid "Place Order Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:860
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">https://villatheme.com/my-download</a>. You "
+"can auto update WooCommerce Cart All in One plugin. See <a target=\"_blank\" "
+"href=\"https://villatheme.com/knowledge-base/how-to-use-auto-update-"
+"feature/\">guide</a>"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/sidebar-cart-content.php:118
+msgid "Please insert all required information to checkout."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one.php:28
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Cart All in One."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2941
+msgid "Please save your changes before choose product"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/ajax-add-to-cart.php:32
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/sidebar-cart-content.php:170
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/variable-atc.php:83
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one.php:25
+msgid ""
+"Please update PHP version at least 7.0 to use WooCommerce Cart All in One."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:925
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2971
+msgid "Position"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3370
+msgid "Position on Mobile"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:724
+msgid "Position on single product page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4173
+msgid "Previous Button Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4205
+msgid "Previous Button Hover Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4221
+msgid "Previous Button Hover Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4239
+msgid "Previous Button Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4135
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4150
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4152
+msgid "Previous Button Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4189
+msgid "Previous Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:381
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2801
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:138
+msgid "Price"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1695
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2486
+msgid "Price Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2504
+msgid "Price Style"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1614
+msgid "Price to display"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1181
+msgid "Product count"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:378
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2800
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:137
+msgid "Product Counter"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:384
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2802
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:139
+msgid "Product Counter & Price"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1200
+msgid "Product Counter Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1234
+msgid "Product Counter Border Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1218
+msgid "Product Counter Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1176
+msgid "Product Counter type"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2406
+msgid "Product Image Border Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3150
+msgid "Product Image Height(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3129
+msgid "Product Image Width(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3170
+msgid "Product Name Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2119
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2132
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2134
+msgid "Product Plus Title"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2158
+msgid "Product Plus Title Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2508
+msgid "Product price"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3089
+msgid "Product Quantity"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/frontend.php:211
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/sticky-bar.php:471
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/vicaio-product-quantity-html.php:20
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3057
+msgid "Product Ratings"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2510
+msgid "Product subtotal"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:769
+msgid "Products limit"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2509
+msgid "Qty & price"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/sticky-bar.php:247
+msgid "Quantity"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2528
+msgid "Quantity Border Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2546
+msgid "Quantity Border Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/menu-cart.php:42
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:221
+msgid "Quick checkout"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:178
+msgid "Recently Viewed Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2056
+msgid "Recently Viewed products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3186
+msgid "Regular Price Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-product-list-html.php:42
+msgid "Remove this item"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:853
+msgid "Ring"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:858
+msgid "Ripple"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:824
+msgid "Roll"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:854
+msgid "Roller"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:825
+msgid "Rotate"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:826
+msgid "RotateInDown"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:827
+msgid "RotateInUp"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3202
+msgid "Sale Price Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:867
+msgid "Save"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:871
+msgid "Save & Check Key"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2057
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2084
+msgid "Select Categories"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:419
+msgid ""
+"Select menus to display the menu Cart.  Clicking on save button before \"Go "
+"to Design\""
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2939
+msgid "Select Product To Preview"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2058
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2101
+msgid "Select Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:510
+msgid "Select variation pop-up"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:257
+msgid "Set pages to display the sidebar cart using"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1028
+msgid ""
+"Set the sidebar cart icon size. This new size parameter need to be the a "
+"ratio compared with original icon size"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1050
+msgid "Set the size of Sidebar Cart Icon when hovering"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/admin.php:19
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/admin.php:20
+msgid "Settings"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:756
+msgid "Shake Horizontal"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:757
+msgid "Shake Vertical"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3616
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3630
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3632
+msgid "Shipping Step Title"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:696
+msgid "Shortcode copied to clipboard!"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:686
+msgid "Shortcode:"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2716
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:68
+msgid "Show Content Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:366
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:45
+msgid "Show Menu Cart cart even when it is empty"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2175
+msgid "Show Out of Stock Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2065
+msgid "Show Products Plus"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:244
+msgid "Show Sidebar cart even when it is empty"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:229
+msgid "Show Sidebar Cart icon on your site"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:175
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:581
+msgid "Sidebar Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:669
+msgid "Sidebar Cart Content Horizontal(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:647
+msgid "Sidebar Cart Content Position"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:690
+msgid "Sidebar Cart Content Vertical(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1521
+msgid "Sidebar Cart Footer"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1252
+msgid "Sidebar Cart Header"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:887
+msgid "Sidebar Cart Icon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1020
+msgid "Sidebar Cart Icon Size"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1042
+msgid "Sidebar Cart Icon Size When Hovering"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2334
+msgid "Sidebar Cart List Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:817
+msgid "Sidebar Trigger Event Style"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:773
+msgid "Sidebar Trigger Event Type"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-form-checkout.php:12
+msgid "Skip Login"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:823
+msgid "Slide"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:820
+msgid "Slideshow speed(milliseconds)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1292
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1561
+msgid "Solid"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/frontend.php:246
+msgid "Sorry there was a problem removing this coupon."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/ajax-add-to-cart.php:33
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/sidebar-cart-content.php:171
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/variable-atc.php:84
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:859
+msgid "Spinner"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:795
+msgid "Start over when reaching the end of slide"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2873
+msgid "Sticky Add To Cart Button"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:565
+msgid "Sticky Add To Cart on single product page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3004
+msgid "Sticky Bar Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:631
+msgid "Style one"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:632
+msgid "Style two"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:400
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2823
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:151
+msgid "Subtotal"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1619
+msgid "Subtotal (total of products)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2953
+msgid "Template"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2841
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:158
+msgid "Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2859
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:172
+msgid "Text Color Hover"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3864
+msgid "The back icon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2215
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3221
+msgid "The cart icon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2018
+msgid "The list of suggested products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2199
+msgid "The maximum number of  showed products is 15"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:774
+msgid "The maximum number of recently viewed products displayed is 15"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:736
+msgid "The products will be flown to Cart after clicking on add to cart button"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:272
+msgid "The sidebar cart content will open when clicking on above class/id."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:259
+msgid "The sidebar cart will not work on cart page and checkout page"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3748
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3762
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3764
+msgid "The Title of Billing and Shipping Step"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3804
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3818
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3820
+msgid "The Title of Order and Payment Step"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2120
+msgid "The title of suggested products list in footer"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4012
+msgid "The title of the next step"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4138
+msgid "The title of the previous steps"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:748
+msgid "Title"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1370
+msgid "Title Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:651
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:929
+msgid "Top Left"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2059
+msgid "Top Rated Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:652
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:930
+msgid "Top Right"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:397
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2822
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:150
+msgid "Total"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1676
+msgid "Total Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1635
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1649
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1651
+msgid "Total Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2614
+msgid "Trash Icon Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2632
+msgid "Trash Icon Hover Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2574
+msgid "Trash Icon Style"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:179
+msgid "Update"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1915
+msgid "Update Button Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1955
+msgid "Update Button Hover Background"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1974
+msgid "Update Button Hover Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1992
+msgid "Update Button Radius(px)"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1935
+msgid "Update Button Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-content.php:152
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-content.php:176
+msgid "Update Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2350
+msgid "Update cart when changing the product quantity"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:2060
+msgid "Upsell Products"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1085
+msgid "Use an image for the cart icon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:3542
+msgid ""
+"Use the arrow keys on keyboard to move steps in checkout process on Cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:4264
+msgid "Use the title of Place order button"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:598
+msgid "Use variation swatches"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1718
+msgid "View cart "
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1734
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1748
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:1750
+msgid "View Cart Button Text"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/frontend/menu-cart.php:39
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:218
+msgid "View your shopping cart"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:358
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:42
+msgid "Visible empty menu cart"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:235
+msgid "Visible empty sidebar cart icon"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:165
+msgid "WooCommerce Cart All in One"
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Cart All in One Premium"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:258
+msgid "WP's conditional tags."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:34
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:46
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/3rd/elementor/menu-cart.php:71
+msgid "Yes"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/templates/sidebar-cart/sc-form-checkout.php:138
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:753
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/cart.php:760
+msgid "Your recently viewed items"
+msgstr ""
+
+#: D:/git/woocommerce-cart-all-in-one/woocommerce-cart-all-in-one/includes/admin/design.php:828
+msgid "Zoom"
+msgstr ""
